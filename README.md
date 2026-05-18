@@ -42,9 +42,12 @@ The system is separated into three distinct abstraction boundaries designed to e
 
 ---
 
-## 💻 Technical Implementation (Bare-Metal Engine Structure)
+---
 
-This repository serves as the fundamental open-source architectural skeleton for the Axiom Iris display loop. The core implementation runs in `#![no_std]` environments to ensure no garbage collection or heap allocation latency interrupts the visual processing path.
+## 💻 System Core Layout & Micro-ASIC Interface
+
+The core runtime environment enforces deterministic execution boundaries. Below is the official architectural interface layout designed to initialize the hardware context, stabilize the RF inductive energy harvesting grid, and map hardware telemetry fields before triggering the display registers.
+
 
 
 ```rust
