@@ -46,14 +46,6 @@ The system is separated into three distinct abstraction boundaries designed to e
 
 This repository serves as the fundamental open-source architectural skeleton for the Axiom Iris display loop. The core implementation runs in `#![no_std]` environments to ensure no garbage collection or heap allocation latency interrupts the visual processing path.
 
-### Key Components Contained in `src/`:
-* `display.rs`: Hardware Abstraction Layer (HAL) for interacting with custom MicroLED pixel matrices via DMA over SPI channels.
-* `tracking.rs`: Raw register parsing algorithms for the sub-millimeter infrared photodiodes measuring pupil position vectors.
-* `gestures.rs`: High-speed vector parsing for 3D hand tracking spatial data frames.
-
----
-
-## 🔬 Core Code Preview (`src/lib.rs`)
 
 ```rust
 #![no_std]
