@@ -95,24 +95,22 @@ pub enum IrisError {
     SensorCalibrationFailure,
 }
 ```
+## 🛡️ SYSTEM INTELLECTUAL PROPERTY
 
-## 🔒 Intellectual Property & Proprietary Core Modules
+​Chief Architect: 
 
-​To preserve the competitive edge and technological sovereignty of Axiom Systems, the core operational algorithms—specifically the ultra-low latency spatial projection shaders, raw gesture translation matrices, and proprietary hardware schematics—are locked under proprietary licenses and non-disclosure agreements.
-​The open-source repository provides the entire compile-ready layout interface, architectural traits, and verification structures. The full integration layer, production-ready binaries, and optimized micro-ASIC firmware instructions are restricted exclusively to authorized enterprise partners and approved institutional investors.
-​For licensing inquiries, deep-tech implementation dossiers, or hardware evaluation tokens:
+**Manuel Echepares**
 
-## 📥 Contact the Axiom Systems Deep-Tech Desk / Access the Private Dossier Layer.
+​Corporate Entity: 
 
+**Axiom Systems**
 
----
+​Verification Profile X: 
 
-## 🌐 Connect with the Architect / Official Channels
+**echepares269651**
 
-Keep up with the real-time development updates of **Axiom Systems** and the hardware deployment pipeline of **Axiom Iris**.
+​Production Context: 
 
-* **𝕏 (X / Twitter):** [Follow @echepares269651 on X](https://x.com/echepares269651) — *Real-time tech drops, deep-tech research notes, and ecosystem announcements.*
+**manuelecheparesvalderrama@gmail.com**
 
-* **📥 Enterprise & Institutional Desk:** `manuelecheparesvalderrama@gmail.com` — *Strictly for licensing inquiries, hardware evaluation tokens, venture capital matching, and NDA-protected dossier access.*
-
----
+## ​The Logic defines the Thought. The Biochemistry defines the Emotion. The Humanoid is just the vessel.
