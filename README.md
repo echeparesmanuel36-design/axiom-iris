@@ -108,3 +108,16 @@ pub enum IrisError {
 ​For licensing inquiries, deep-tech implementation dossiers, or hardware evaluation tokens:
 
 ## 📥 Contact the Axiom Systems Deep-Tech Desk / Access the Private Dossier Layer.
+
+
+---
+
+## 🌐 Connect with the Architect / Official Channels
+
+Keep up with the real-time development updates of **Axiom Systems** and the hardware deployment pipeline of **Axiom Iris**.
+
+* **𝕏 (X / Twitter):** [Follow @echepares269651 on X](https://x.com/echepares269651) — *Real-time tech drops, deep-tech research notes, and ecosystem announcements.*
+
+* **📥 Enterprise & Institutional Desk:** `manuelecheparesvalderrama@gmail.com` — *Strictly for licensing inquiries, hardware evaluation tokens, venture capital matching, and NDA-protected dossier access.*
+
+---
